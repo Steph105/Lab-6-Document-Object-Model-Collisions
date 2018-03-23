@@ -1,1 +1,2 @@
-# Lab-6-Document-Object-Model-Collisions
+# JSPlatformer
+JS Platformer for DIG 3480C
